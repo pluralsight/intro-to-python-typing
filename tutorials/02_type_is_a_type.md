@@ -8,7 +8,7 @@ While we refer to our classes as such, the `class` keyword in Python is used to 
 
 But don't worry about that too much for now: Let's try annotating a function that specifically accepts classes, by using `type`:
 
-[examples/02_type_is_a_type.py](https://github.com/pluralsight/intro-to-python-typing/examples/02_type_is_a_type.py)
+[examples/02_type_is_a_type.py](https://github.com/pluralsight/intro-to-python-typing/blob/master/examples/02_type_is_a_type.py)
 
 As long as you can get over the weirdness of remembering `type` as the base of the type system, and the superclass of all classes, this works pretty well. Give it a try!
 

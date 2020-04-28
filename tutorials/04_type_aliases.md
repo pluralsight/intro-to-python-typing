@@ -2,7 +2,7 @@
 
 In this example, we'll create another Generic `Tuple` type... But this time, we'll assign it to a variable:
 
-[examples/04_type_aliases.py](https://github.com/pluralsight/intro-to-python-typing/examples/04_type_aliases.py)
+[examples/04_type_aliases.py](https://github.com/pluralsight/intro-to-python-typing/blob/master/examples/04_type_aliases.py)
 
 If you find yourself defining large Tuples, or have a Tuple definition that you need to repeat, assigning the type definition to a variable can make life easier!
 

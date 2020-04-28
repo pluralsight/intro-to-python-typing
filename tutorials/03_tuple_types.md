@@ -4,7 +4,7 @@ You may have noticed that the built-in types we've used for annotations so far d
 
 Let's start as simply as possible, by importing the `Tuple` type from the `typing` module:
 
-[examples/03_tuple_types.py](https://github.com/pluralsight/intro-to-python-typing/examples/03_tuple_types.py)
+[examples/03_tuple_types.py](https://github.com/pluralsight/intro-to-python-typing/blob/master/examples/03_tuple_types.py)
 
 The `Tuple` type is a `Generic`, a special class that allows us to describe a type that has parameters - in the case of a Tuple, we can specify the types we expect it to contain.
 
