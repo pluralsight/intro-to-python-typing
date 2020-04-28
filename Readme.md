@@ -24,7 +24,7 @@ In the base folder, and see a confirmation message like `Success: no issues foun
 
 You can now begin the tutorial track here:
 
-[Tutorial 1: Core Types](https://github.com/pluralsight/intro-to-python-testing/blob/master/tutorials/01_core_types.md)
+[Tutorial 1: Core Types](https://github.com/pluralsight/intro-to-python-typing/blob/master/tutorials/01_core_types.md)
 
 (There are currently 16 examples, but only a few have detailed tutorials at the moment - I hope to improve this in the near future!)
 
