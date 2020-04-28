@@ -1,4 +1,5 @@
-# intro-to-python-typing
+# Intro to Python Typing
+
 A practical introduction to Python's type annotation features (and the `typing` module), via simple, hackable examples.
 
 (The examples currently use the typing syntax introduced in Python 3.6 - Backwards-compatible Python 2 examples may be added in a future update.)
@@ -21,9 +22,11 @@ mypy examples/
 
 In the base folder, and see a confirmation message like `Success: no issues found in 18 source files`.
 
-You can now begin the tutorial track here.
+You can now begin the tutorial track here:
 
-(There are currently 16 examples, but only a few have detailed tutorials at the moment - I hope to improve this in the near future.)
+[Tutorial 1: Core Types](https://github.com/pluralsight/intro-to-python-testing/blob/master/tutorials/01_core_types.md)
+
+(There are currently 16 examples, but only a few have detailed tutorials at the moment - I hope to improve this in the near future!)
 
 ---
 If you have any feedback, questions, or Typing features you'd like to see covered, please let me know on Pluralsight Slack as @david.sturgis, or via GitHub Issues (or a PR) on this repo. Thanks!
