@@ -35,7 +35,7 @@ def foo(x: int) -> int:
 
 With that in mind, consider this example:
 
-[examples/01_core_types.py](https://github.com/pluralsight/intro-to-python-typing/examples/01_core_types.py)
+[examples/01_core_types.py](https://github.com/pluralsight/intro-to-python-typing/blob/master/examples/01_core_types.py)
 
 What do the type annotations imply?
 
