@@ -12,4 +12,5 @@ def map_strings_by_index(my_list: LetterList) -> LetterIndexMap:
 
 letter_list = ['A', 'B', 'C', 'D', 'E']
 indexed_strings = map_strings_by_index(letter_list)
-assert indexed_strings['c'] == 3
+
+assert indexed_strings['C'] == 2
