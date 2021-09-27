@@ -11,3 +11,5 @@ class Foobar:
 
 def print_length(object: Sized):
     print(len(object))
+
+print_length(Foobar())
