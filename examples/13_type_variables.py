@@ -11,5 +11,5 @@ def get_first_item(things: Iterable[T]) -> Optional[T]:
     return None
 
 assert get_first_item([1, 2, 3]) == 1
-assert get_first_item((1, 2, 3)) == 1
+assert get_first_item([]) == None
 assert get_first_item({'A': 1, 'B': 2, 'C': 3}) == 'A'

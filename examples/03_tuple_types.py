@@ -9,4 +9,4 @@ def first_word_length(text: str) -> Tuple[str, int]:
 
 word, length = first_word_length("Hello world!")
 
-assert (word, length) == "Hello", 5
+assert (word, length) == ("Hello", 5)
